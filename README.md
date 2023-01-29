@@ -35,7 +35,7 @@ The technologies used for this project are:
 ***
 A little intro about the installation. 
 ```
-$ git clone https://github.com/lasagna92/finalCapstone.git
+$ git clone https://github.com/lasagna92/Ebook-Library.git
 $ cd ../path/to/the/file
 $ npm install
 $ npm start
