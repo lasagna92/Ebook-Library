@@ -21,7 +21,7 @@ The programm uses a Tkinter interface where the user can choose between the foll
 * Update Books(retrive the book form his id and opens a new window where you can modify the book info) 
 * Delete Book(retrive the book from his id and deletes it)
 ### Screenshot
-![menu](https://github.com/lasagna92/Projects/blob/main/2023-01-29.png)
+![menu](https://github.com/lasagna92/Ebook-Library/blob/main/2023-01-29.png)
 ![menu](https://github.com/lasagna92/Projects/blob/main/2023-01-29%20(2).png)
 
 ### Technologies
