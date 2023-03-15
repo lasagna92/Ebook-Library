@@ -22,7 +22,7 @@ The programm uses a Tkinter interface where the user can choose between the foll
 * Delete Book(retrive the book from his id and deletes it)
 ### Screenshot
 ![menu](https://github.com/lasagna92/Ebook-Library/blob/main/2023-01-29.png)
-![menu](https://github.com/lasagna92/Projects/blob/main/2023-01-29%20(2).png)
+![menu](https://github.com/lasagna92/Ebook-Library/blob/main/2023-01-29%20(2).png)
 
 ### Technologies
 ***
